@@ -1,0 +1,23 @@
+# VS Code/Cursor development files
+.vscode/
+.cursor/
+
+# Git files
+.git/
+
+# Development documentation
+README.md
+LICENSE
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
