@@ -1,11 +1,11 @@
 ## Interface: 30300
-## Title: NoxxAddon
-## Notes: An addon that does nothing yet.
-## Author: Noxxious
+## Title: CoiniAddon
+## Notes: An addon that tracks kills and gold gained from kills.
+## Author: Coini
 ## Version: 1.0.0
 ## RequiredDeps:
 ## X-Curse-Project-ID: 99999
 ## SavedVariables:
 ## SavedVariablesPerCharacter:
 
-NoxxAddon.lua
+CoiniAddon.lua
